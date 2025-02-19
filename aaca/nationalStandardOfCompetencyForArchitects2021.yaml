@@ -1,0 +1,315 @@
+# src: https://aaca.org.au/wp-content/uploads/2021-NSCA.pdf
+# src: https://aaca.org.au/wp-content/uploads/2021-NSCA-Explanatory-Notes.pdf
+## Performance Criteria describe discrete aspects of architectural practice and are organised under the Units of Competency. Each Unit has a corresponding set of criteria for each of the three competency profiles.
+## The NSCA does not prioritise any unit or performance criteria. The ordering of the performance criteria does not suppose a particular mode of practice or project type, nor is there any weighting applied to individual performance criteria in the NSCA.
+
+- id: PC 1
+	name: Regulatory Requirements and Obligations
+	summary: Understand, demonstrate, and comply with the regulatory requirements and obligations for architectural practice—including professional codes of conduct, continuing professional development, and professional indemnity insurance .
+	onGraduation: Understand the regulatory requirements and obligations pertaining to practice as an architect, including professional codes of conduct and obligations for continuing professional development and professional indemnity insurance.
+	pointOfRegistration: Demonstrate understanding of the regulatory requirements and obligations pertaining to practice as an architect, including legislation, professional codes of conduct, and obligations for continuing professional development and professional indemnity insurance.
+	postRegistration: Comply with the regulatory requirements and obligations pertaining to practice as an architect, including legislation, professional codes of conduct, obligations for continuing professional development and professional indemnity insurance.
+	explanatoryNotes: Architects must have a broad knowledge of the regulatory frameworks pertaining to architectural practice, practice management and registration as an architect. A sound working knowledge, including recognition of the hierarchy and interrelationships between the legislations, is required to ensure architects can identify and comply with these obligations.
+	examples: >-
+At graduation, this could be demonstrated through an awareness of the ethical criteria embedded in the relevant state/territory Architects Acts and professional code of conduct, the Architects Award and other legislation relevant to the business of architecture – for example, the Racial Discrimination Act 1975, Sex Discrimination Act 1984, Disability Discrimination Act 1992, and the Environment Protection and Biodiversity Conservation Act 1999.
+At registration, this would be demonstrated through identifying the legal obligations for registration as an architect, as well as describing the code of conduct requirements contained within a client/architect agreement and demonstrating an understanding of obligations of employers and employees under the Architects Award.
+Post registration, this would be demonstrated by undertaking continuing professional development to maintain skills and knowledge, maintaining registration with the relevant state/territory board of architects, meeting all obligations under the Architects Award and National Employment Standards, and being covered by appropriate professional indemnity insurance.
+
+- id: PC 2
+	name: Quality Assurance Systems
+	summary: Understand the role of quality assurance systems in planning, executing, and monitoring work processes to ensure timely and consistent delivery of architectural services , .
+
+
+- id: PC 3
+	name: Project Planning
+	summary: Understand, demonstrate, and apply project planning principles considering implications for Country, environmental sustainability, stakeholders, and project costs .
+
+
+- id: PC 4
+	name: Project and Staff Planning
+	summary: Be able to apply principles of project and staff planning and resource costs to establish realistic and achievable timeframes.
+
+
+- id: PC 5
+	name: Client Architect Agreement
+	summary: Understand the key elements of a Client Architect Agreement—including roles, fees, scope, and contractual obligations—to guide ethical practice.
+
+
+- id: PC 6
+	name: Reporting and Varying Scope of Services
+	summary: Be able to apply appropriate processes for reporting and varying the scope of services provided by an architect
+
+
+- id: PC 7
+	name: Client and Stakeholder Communication
+	summary: Apply and follow processes for clear and consistent communication with clients and relevant stakeholders throughout the project, including obtaining approvals from clients and stakeholders.
+
+
+- id: PC 8
+	name: First Nations Engagement Processes
+	summary: Understand and apply processes for meaningful engagement with First Nations peoples as part of ethical architectural practice.
+
+
+- id: PC 9
+	name: Procurement Methods
+	summary: Understand and evaluate different procurement methods and their implications for design, documentation, and overall project delivery.
+
+
+- id: PC 10
+	name: Whole Life Carbon
+	summary: Understand the concept of whole life carbon—including both operational and embodied carbon impacts—to inform sustainable design decisions.
+
+
+- id: PC 11
+	name: Procurement Process
+	summary: Assess, recommend, and select an appropriate procurement process considering its impact on design, documentation, and delivery phases.
+
+
+- id: PC 12
+	name: Statutory Requirements / Building Codes / Standards
+	summary: Understand how building codes, standards, and planning controls apply across architectural practice, including aspects such as fire safety, accessibility, and sustainability.
+
+
+- id: PC 13
+	name: Documentation Processes
+	summary: Have knowledge of documentation processes that facilitate project delivery appropriate to selected procurement processes. Be able to identify and apply strategies, programming and processes for documentation through all project stages to facilitate project delivery, as appropriate to selected procurement processes.
+
+
+- id: PC 14
+	name: Construction Services Provisions / Construction Administration Systems
+	summary: Identify and apply the appropriate construction services provisions and administration systems needed to fulfill contractual obligations .
+
+
+- id: PC 15
+	name: Copyright and Moral Rights
+	summary: Understand the principles of copyright and moral rights in architectural work, ensuring proper attribution and protection of creative outputs.
+
+
+- id: PC 16
+	name: Risk Management
+	summary: Understand and apply risk management principles to identify, evaluate, and mitigate risks throughout architectural projects.
+
+
+- id: PC 17
+	name: Caring for Country
+	summary: Understand the responsibility to care for Country and integrate culturally responsive practices into early design stages.
+
+
+- id: PC 18
+	name: Concept Design
+	summary: Be able to apply creative imagination, design precedents, research, emergent knowledge and critical evaluation in formulating and refining concept design options, including the exploration of three dimensional form and spatial quality.
+
+
+- id: PC 19
+	name: Project Feasibility Assessments
+	summary: Assess project feasibility by evaluating site conditions, budget, and design viability to inform concept development.
+
+
+- id: PC 20
+	name: Project Budgets
+	summary: Understand the importance of project budgets, including cost estimation and financial planning in the design process.
+
+
+- id: PC 21
+	name: Establishing Project Budgets
+	summary: Establish and manage project budgets that align with client requirements and design objectives.
+
+
+- id: PC 22
+	name: Conflict of Interests
+	summary: Identify and manage risks arising from real or perceived conflict of interests.
+
+
+- id: PC 23
+	name: Return Brief
+	summary: Prepare a return brief that articulates the client’s vision, project requirements, and identifies areas of deviation for stakeholder approval .
+
+
+- id: PC 24
+	name: Project Development Options
+	summary: Identify and analyze various project development options—including feasibility studies and design alternatives—to guide project evolution .
+
+
+- id: PC 25
+	name: History and Theory of Architecture
+	summary: Understand architectural history and theory to contextualize design decisions and inform contemporary practice.
+
+
+- id: PC 26
+	name: Design Research
+	summary: Be able to undertake site, cultural and contextual analysis as part of preliminary design research.
+
+
+- id: PC 27
+	name: First Nations Engagement Processes
+	summary: Apply First Nations engagement processes during project initiation to ensure culturally informed and respectful design.
+
+
+- id: PC 28
+	name: Interdisciplinary Design Research
+	summary: Be able to draw on knowledge from building sciences and technology, environmental sciences and behavioural and social sciences as part of preliminary design research and when developing the conceptual design to optimise the performance of the project.
+
+
+- id: PC 29
+	name: Evaluation of Design Options
+	summary: Evaluate and compare design options based on feasibility, sustainability, and client requirements.
+
+
+- id: PC 29
+	name: Evaluation of Design Options
+	summary: Evaluate and compare design options based on feasibility, sustainability, and client requirements.
+
+
+- id: PC 30
+	name: Siting Projects
+	summary: Be able to explore options for siting a project, including integrating information and analysis of relevant cultural, social and economic factors.
+
+
+- id: PC 31
+	name: Environmental Sustainability
+	summary: Integrate principles of environmental sustainability into design to reduce carbon impact and promote resource efficiency.
+
+
+- id: PC 32
+	name: Planning Principles / Statutory Planning Requirements
+	summary: Apply planning principles and adhere to statutory planning requirements throughout the concept design phase.
+
+
+- id: PC 33
+	name: ESD System Integration
+	summary: Be able to investigate, coordinate and integrate sustainable environmental systems – including water, thermal, lighting and acoustics – in response to consultants’ advice.
+
+
+- id: PC 34
+	name: Communication with Stakeholders
+	summary: Develop effective communication strategies to convey design intent and project progress to stakeholders.
+
+
+- id: PC 35
+	name: Operational and Embodied Carbon
+	summary: Assess and integrate considerations of both operational and embodied carbon into the design process to achieve sustainability targets.
+
+
+- id: PC 36
+	name: Engagement with First Nations Peoples
+	summary: Engage directly with First Nations peoples during the detailed design phase to ensure culturally responsive solutions.
+
+
+- id: PC 37
+	name: Construction Documentation
+	summary: Be able to produce timely, accurate, complete and comprehensible documentation of the design so that it can be constructed.
+
+
+- id: PC 38
+	name: Time and Budget Management
+	summary: Be able to work within budget and time constraints while maintaining the defined project design intent. This includes participating in value management processes where engaged to do so.
+
+
+- id: PC 39
+	name: Material Selections / Structural and Construction Systems
+	summary: Select appropriate materials, structural systems, and construction methods that meet design objectives and compliance standards.
+
+
+- id: PC 40
+	name: Design Presentations to Stakeholders
+	summary: Develop and deliver detailed design presentations that clearly communicate the resolved design solution to stakeholders .
+
+
+- id: PC 41
+	name: Detailed Design Consultant Coordination
+	summary: Be able to coordinate and integrate input from specialists and consultants into the detailed design and documentation.
+
+
+- id: PC 42
+	name: Planning Applications
+	summary: Be able to prepare planning applications that comply with planning  regulations
+
+
+- id: PC 43
+	name: Contractor Engagement
+	summary: Be able to collaborate with nominated contractors early in the documentation process to identify key construction methodology opportunities and constraints.
+
+
+- id: PC 44
+	name: Consultants
+	summary: Understand the roles of various consultants and coordinate effectively with them to support the design documentation process .
+
+
+- id: PC 45
+	name: Quality and Performance Standards
+	summary: Understand and integrate quality and performance standards into material and design selections to meet regulatory and sustainability benchmarks .
+
+
+- id: PC 46
+	name: Project Documentation
+	summary: Develop comprehensive and accurate project documentation that clearly communicates design intent for construction.
+
+
+- id: PC 47
+	name: Accurate Documents
+	summary: Produce unambiguous and precise architectural documents essential for successful construction execution.
+
+
+- id: PC 48
+	name: Procurement Method Implications for Project Delivery
+	summary: Understand how the chosen procurement method impacts project delivery and adjust design and construction processes accordingly.
+
+
+- id: PC 49
+	name: Project Team Structures
+	summary: Establish and manage project team structures that assign appropriate roles and expertise during the construction phase .
+
+
+- id: PC 50
+	name: Continued Engagement with First Nations Peoples
+	summary: Maintain ongoing engagement with First Nations peoples throughout construction to ensure cultural considerations remain integral to the project.
+
+
+- id: PC 51
+	name: Contractor Selection
+	summary: Select appropriate contractors based on project requirements, risk assessments, and past performance to ensure quality construction.
+
+
+- id: PC 52
+	name: Contractual Relationship Defined by Procurement Method
+	summary: Define and manage contractual relationships based on the selected procurement method to ensure clear roles and responsibilities.
+
+
+- id: PC 53
+	name: Advice to Client on Procurement Methods
+	summary: Provide expert advice to clients regarding procurement methods and their implications for project delivery.
+
+
+- id: PC 54
+	name: Periodic Site Visits
+	summary: Conduct regular site visits during construction to monitor progress and quality as per contractual provisions .
+
+
+- id: PC 55
+	name: Record Keeping and Document Control
+	summary: Apply robust systems for record keeping and document control during the construction phase to ensure traceability and compliance .
+
+
+- id: PC 56
+	name: Identification of Defects
+	summary: Identify and document defects during construction to enable prompt corrective action and quality control.
+
+
+- id: PC 57
+	name: Contract Administration
+	summary: Administer construction contracts effectively by processing claims, managing adjustments, and ensuring fair implementation of contractual terms.
+
+
+- id: PC 58
+	name: Project Documentation
+	summary: Complete documentation – including specifications, drawings, schedules, reports, certification and approvals – and other project information for issue to the client and relevant authorities, as required under the construction contract and relevant building and planning codes
+
+
+- id: PC 59
+	name: Project Documentation Risks
+	summary: Understand and mitigate risks associated with preparing and recording documentation.
+
+
+- id: PC 60
+	name: Post Occupancy Evaluation
+	summary: Conduct post occupancy evaluations to assess building performance and gather feedback from users after construction is complete.
